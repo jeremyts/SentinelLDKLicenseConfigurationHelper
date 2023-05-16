@@ -1,0 +1,2 @@
+# SentinelLDKLicenseConfigurationHelper
+Sentinel LDK License Configuration Helper
