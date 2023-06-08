@@ -1,8 +1,5 @@
 # SentinelLDKLicenseConfigurationHelper
-Sentinel LDK License Configuration Helper
-
-This service uses the registry to configure the servers in the Sentinel LDK License Manager (hasplms) service, by updateing the configuration in the hasplm.ini found
-under the "C:\Program Files (x86)\Common Files\Aladdin Shared\HASP" folder
+Sentinel LDK License Configuration Helper Service
 
 Download the latest compiled Release as a zip posted to the right hand side of this repository under Releases.
 
